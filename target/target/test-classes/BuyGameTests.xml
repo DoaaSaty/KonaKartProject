@@ -1,0 +1,15 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BuyGameTests">
+
+	<test name="BuyOnlineGame">
+		<classes>
+			
+			<class name="com.konkart.automation.games.BuyGamesTests"/>
+			
+			
+		</classes>
+	</test>
+
+
+</suite>
